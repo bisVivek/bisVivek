@@ -5,8 +5,6 @@
 
 <img align="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif">
 
-- 👨‍💻 All of my projects are available at [http://vivekportfolio.rf.gd/](http://vivekportfolio.rf.gd/)
-
 - 📫 How to reach me **vivek5832017@gmail.com**
 
 - ⚡ Fun fact **I'm Adaptive Learner 🙋‍♂️**
