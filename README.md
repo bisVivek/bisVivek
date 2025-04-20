@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Backend+Developer;Spring+Boot+%7C+Java+%7C+MySQL;Always+learning+new+things!+🚀;Let's+build+something+awesome+together!+🤝" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Backend+Developer;Spring+Boot+%7C+Java+%7C+MySQL;Always+learning+new+things!+🚀; Let's+build+something+awesome+together!+🤝" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif">
