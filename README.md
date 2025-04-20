@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Backend+Developer;Spring+Boot+%7C+Java+%7C+MySQL;Always+learning+new+things!+🚀; Let's+build+something+awesome+together!+🤝" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Backend+Developer;Spring+Boot+%7C+Java+%7C+MySQL;Always+learning+new+things!+🚀;Let's+build+something+awesome+together!+🤝" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif">
@@ -48,7 +48,14 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bisvivek&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true" width="45%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisvivek&layout=compact&theme=tokyonight" width="45%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=bisvivek&theme=tokyonight&hide_border=true" width="90%" /> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisvivek&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisvivek&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
