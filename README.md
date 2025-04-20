@@ -49,13 +49,7 @@
 ### 📊 GitHub Stats:
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisvivek&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisvivek&theme=radical" alt="GitHub Streak" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisvivek&layout=compact&theme=tokyonight" width="45%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=bisvivek&theme=tokyonight&hide_border=true" width="90%" /> </p>
 
 ---
 
